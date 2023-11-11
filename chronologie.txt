@@ -43,7 +43,11 @@ Début des voyages de Guillaume
 ~ -5 0 : 
 apparition du monstre de Lille
 
+~ -2 :
+Naissance de Romulus
+
 0 : 
+Naissance d'Hélène
 Mort de Guillaume, vengeance de ses frères
 Indépendance de Thumeries sous Hugues
 Mort du caïd Harun, division du territoire par ses fils
