@@ -55,6 +55,19 @@ Mort de Ismail trahi par ses hommes
 Mort de Salim par Tariq
 mort de Tariq par une révolte
 
+Suite à la révolte :
+	j0 : révolte
+	j1 : ban de Quentin
+	j3 : réveil et récupération de Quentin
+	j4 : tour de la propriété
+	j5 : explosion émotionnelle
+	j6 : début de la tempête, ouverture de Quentin
+	j7 : installation de la jambe, arrivée de Jacob
+
+	j
+
+
+
 1:
 
 
