@@ -1,10 +1,15 @@
+Avant : la civilisation
+
 ~ -200 : 
 effondrement de la civilisation
+debut de l'âge des posthumains
 Juliette et Roland s'établissent dans un village
 
 ~ -100 : 
-Walid le fort établit le caïdat
 Walid tue Juliette
+Fin de l'âge des posthumains
+Début de l'ère Walidide
+Walid le fort établit le caïdat
 
 ~ -60 :
 Mort de Walid le fort, prise de pouvoir de ses fils
@@ -69,6 +74,8 @@ Suite à la révolte :
 
 
 1:
+
+Fin de l'ère Walidide
 
 
 ~ 20 :
