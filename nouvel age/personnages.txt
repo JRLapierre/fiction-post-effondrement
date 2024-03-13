@@ -12,7 +12,7 @@ père
 mère
 Pierre
 -
--
+- deuxième frère (nom à trouver)
 -
 Quentin
 
@@ -34,7 +34,7 @@ Caids walidides :
 Walid le fort
 Youssef, Khaled, Amin
 Harun
-Tariq, Ismail, Nabil, Salim
+Tariq (henin), Ismail, Nabil (Lens), Salim
 
 Meneur de la révolte de thumeries : 
 Hugues

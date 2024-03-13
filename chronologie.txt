@@ -64,6 +64,7 @@ mort de Tariq par une révolte
 Suite à la révolte :
 	j0 : révolte
 	j1 : ban de Quentin
+	j2 : rien
 	j3 : réveil et récupération de Quentin
 	j4 : tour de la propriété
 	j5 : explosion émotionnelle
