@@ -44,10 +44,8 @@ Adoption de Jacob par Philippe
 Rencontre entre Iskandar et Louane
 
 -5 : 
-Début des voyages de Guillaume
-
-~ -5 0 : 
 apparition du monstre de Lille
+Début des voyages de Guillaume
 
 ~ -2 :
 Naissance de Romulus
@@ -75,9 +73,9 @@ Suite à la révolte :
 
 
 
-1:
-
-Fin de l'ère Walidide
+1 ~ 20
+contre attaque du caid de lens -> défense effective
+Conflict avec Hugues de thumeries, victoire
 
 
 ~ 20 :
